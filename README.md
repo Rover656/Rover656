@@ -1,4 +1,4 @@
-### Hello There 👋
+## Hello There 👋
 <sup>General Kenobi!</sup>
 
 I'm Reece Mackie (goes by Rover656), a 1st year Uni student who is passionate about game development and toolkits.
@@ -11,3 +11,9 @@ I'm Reece Mackie (goes by Rover656), a 1st year Uni student who is passionate ab
 
 ![GitHub followers](https://img.shields.io/github/followers/Rover656?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Rover656?style=flat-square)
+
+## Favourite Languages
+- C#
+- JavaScript (TypeScript)
+- Java
+- C/C++
