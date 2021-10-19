@@ -1,7 +1,7 @@
 ## Hello There 👋
 <sup>General Kenobi!</sup>
 
-I'm Reece Mackie (goes by Rover656), a 1st year Uni student who is passionate about game development and toolkits.
+I'm Reece Mackie (goes by Rover656), a 2nd year Uni student who is passionate about game development and toolkits.
 
 [![Rover656's github stats](https://github-readme-stats.vercel.app/api?username=Rover656&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
