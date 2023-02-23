@@ -1,7 +1,6 @@
 ## Hello There 👋
-<sup>General Kenobi!</sup>
 
-I'm Reece Mackie (goes by Rover656), a 3rd year Uni student who is passionate about game development and toolkits.
+I'm Reece Mackie (by the handle Rover656), a third-year Robert Gordon University student who is passionate about game development and tooling.
 
 [![Rover656's github stats](https://github-readme-stats.vercel.app/api?username=Rover656&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +18,7 @@ I'm Reece Mackie (goes by Rover656), a 3rd year Uni student who is passionate ab
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Other Languages
-These are languages I have used in the past, but don't use regularly.
+These are languages I have used in the past or am learning.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,6 +27,7 @@ These are languages I have used in the past, but don't use regularly.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23F46623.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Familiar Technologies
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
