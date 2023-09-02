@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I'm Reece Mackie (by the handle Rover656), a third-year Robert Gordon University student who is passionate about game development and tooling.
+I'm Reece Mackie (by the handle Rover656), a .NET Placement Software Engineer and 4th year Robert Gordon University student who is passionate about game development and tooling.
 
 [![Rover656's github stats](https://github-readme-stats.vercel.app/api?username=Rover656&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
